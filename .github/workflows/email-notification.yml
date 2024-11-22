@@ -47,5 +47,5 @@ jobs:
             Ver cambios: ${{ github.event.head_commit.url }}
           
           # Recipients
-          to: your-email@domain.com
+          to: chava.crb@gmail.com
           from: GitHub Actions <noreply@github.com>
